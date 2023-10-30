@@ -2,7 +2,9 @@
 # yolo-beam-yolo-vector
 https://mega.nz/folder/OIEjjY5R#pBBAMjBMrQxmnHQJv9t29Q
 
+hand leg dataset with person with weights
 
+https://mega.nz/folder/XQ0VUSDK#ZpUwf3QNPxPazvZN-VORKQ
 
 https://mega.nz/folder/3A1QAZDA#-lN-V9sTkhhlM6V33JjmSA
 
