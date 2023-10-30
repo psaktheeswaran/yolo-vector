@@ -1,7 +1,9 @@
 # yolo-vector
 # yolo-beam-yolo-vector
 https://mega.nz/folder/OIEjjY5R#pBBAMjBMrQxmnHQJv9t29Q
-
+https://mega.nz/folder/3A1QAZDA#-lN-V9sTkhhlM6V33JjmSA
+https://mega.nz/folder/LFEhGZJR#QVX5TXOFvE954use1NRe5Q
+https://mega.nz/folder/TU9kCCQT#FHtS9OjOxBQSllCUQjIQqA
 person datset youtube
 
 https://universe.roboflow.com/me-kqege/person-va3hs
